@@ -1,0 +1,78 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Samruddhi Dodal | Homepage
+email: 
+description: Learn something new. Everyday. *This is an attempt to learn to code
+url: https://samruddhidodal.github.io/ # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+pages_list:
+        About: '/about'
+        Archive: '/archive'
+        Feed: '/atom.xml'
+
+plugins:
+        - jekyll-redirect-from
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Samruddhi Dodal
+  avatar: #insertlogo
+  job: "Dodo's homepage"
+  bio: "Learn something new. Everyday."
+  email: "samruddhidodal@gmail.com"
+  disqus-shortname:
+  twitter: SamruddhiDodal
+  facebook: "dodal.s"
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: #username
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: "sdodal"
+  skype: #username
+  xing: #username
+  instagram: "pretty_yellow_lights"
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
