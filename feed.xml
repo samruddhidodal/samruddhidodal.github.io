@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Samruddhi Dodal</title>
-    <description>Learn something new. Everyday.</description>
-    <link>https://samruddhidodal.github.io//</link>
-    <atom:link href="https://samruddhidodal.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>2020-08-11</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2020 20:13:21 +0200</lastBuildDate>
+    <title>Samruddhi Dodal | Homepage</title>
+    <description>Learn something new. Everyday. //this is an attempt to learn to code</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>2020-09-23</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2020 12:23:16 +0200</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -93,9 +93,9 @@ Be there for your friends, throughout the process. Before and after you do or do
 
 &lt;p&gt;All the best!&lt;/p&gt;
 </description>
-        <pubDate>2020-08-11</pubDate>
-        <link>https://samruddhidodal.github.io//articles/2020-07/placements</link>
-        <guid isPermaLink="true">https://samruddhidodal.github.io//articles/2020-07/placements</guid>
+        <pubDate>2020-09-23</pubDate>
+        <link>http://localhost:4000/articles/2020-07/placements</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2020-07/placements</guid>
         
         
         <category>tips</category>
@@ -122,9 +122,9 @@ Be there for your friends, throughout the process. Before and after you do or do
 
 &lt;p&gt;Lots of love,&lt;/p&gt;
 </description>
-        <pubDate>2020-08-11</pubDate>
-        <link>https://samruddhidodal.github.io//articles/2020-04/quarantine</link>
-        <guid isPermaLink="true">https://samruddhidodal.github.io//articles/2020-04/quarantine</guid>
+        <pubDate>2020-09-23</pubDate>
+        <link>http://localhost:4000/articles/2020-04/quarantine</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2020-04/quarantine</guid>
         
         
         <category>musings</category>
@@ -151,9 +151,9 @@ This inference is pretty debatable (so much so that I think I should not publish
 &lt;p&gt;If you’ve made it so far, and are trying to figure out where I’m getting at with this, my answer to you would be - nowhere in particular. As a hopeful person who built a connection and had a good time over the last couple of days, I am hooked to the possibility of this happening to many others. I write this in an attempt to uncover the secret to getting there because I believe it will be very beautiful. It could be a world in which we connect to each other, a world where we can give without fear. Being hopeful about other people makes life beautiful - but much more so if you’re hopeful about yourself. The desire to add value to people’s lives keeps a lot of us going, but what makes life enjoyable is this willingness and the belief in our capabilities. The few times that our attempts may go in vain because of those who exploit the system, we should know it’s not a good enough reason for us to stop giving, to stop collaborating, to stop being hopeful or to stop believing in ourselves. It is impossible, or at the least extremely difficult, to trust in the power of collaboration if you don’t believe in the capabilities you own. It is only when are you confident about your own instincts, abilities and your little quirks that you can make life a positive-sum game for everyone. Is that the purpose? Trusting and leaving that to you :’)&lt;/p&gt;
 
 </description>
-        <pubDate>2020-08-11</pubDate>
-        <link>https://samruddhidodal.github.io//articles/2020-01/yearend2</link>
-        <guid isPermaLink="true">https://samruddhidodal.github.io//articles/2020-01/yearend2</guid>
+        <pubDate>2020-09-23</pubDate>
+        <link>http://localhost:4000/articles/2020-01/yearend2</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2020-01/yearend2</guid>
         
         
         <category>musings</category>
@@ -201,9 +201,9 @@ Savoring the authentic pasta cooked by our Italian friend!&lt;/p&gt;
 &lt;p&gt;There’s so much to talk about, about being in Italy. I am so so so in love with the people there, and honestly, it’s difficult not to, for they pour their hearts into everything they do. You see them talking – the hand gestures and melody of their voices going in sync with their expressions – it makes you want to be a part of their world! And the food of course – making the most perfect pizzas and gelatos and having conversations with family and friends over long multiple-course meals, or even just the way they ensure perfection in the tiniest nooks and corners of their home – and how they build for themselves the prettiest surroundings ever. You leave home in the morning for class all sleepy – and then someone walking along the street with the most genuine smile ever will greet you with a ‘Buon giorno!’ You reach the metro but don’t know what train to take, and someone walks you to the exact place at the other end of the station, just because they want to help you out. Yes, there are language issues – hardly would you come across anyone on the streets who would speak English that is half as good. Yes, some days you are going to be tired to get out of bed and cook for yourself. Yes, there are going to be some days when you miss family and miss insti. But with people so kind (and food so delicious), you don’t want to miss this one chance. I miss the happy ‘Ciao!’s exchanged with merry strangers – shopkeepers, passengers on metros and bus drivers. I remember how cars patiently wait for pedestrians to cross, smiling while asking me to go first. I learned to appreciate art, culture and the Italian way of life – living every moment and giving the best at what you pursue. Exchange gave me the time to be with myself, to think and to grow as a person. Oh, and well, it inspired me to start writing (No semex = no dodo-diaries). The only apt line to conclude with would be “Go for an exchange! It’s the best time of your life you get to spend with yourself!”  :’)&lt;/p&gt;
 
 </description>
-        <pubDate>2020-08-11</pubDate>
-        <link>https://samruddhidodal.github.io//articles/2019-04/semex</link>
-        <guid isPermaLink="true">https://samruddhidodal.github.io//articles/2019-04/semex</guid>
+        <pubDate>2020-09-23</pubDate>
+        <link>http://localhost:4000/articles/2019-04/semex</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2019-04/semex</guid>
         
         
         <category>tips</category>
@@ -220,9 +220,9 @@ Savoring the authentic pasta cooked by our Italian friend!&lt;/p&gt;
 
 &lt;p&gt;One reason why travelling and meeting new people and knowing more about them is so important is to get a firsthand experience of how different every person out there is. We know how different we are when we can’t even speak words the way they’re used to hearing it, or how we don’t have the words for some feelings like they do. Which gets us to how in spite of being from similar cultural backgrounds too, everyone has their own story, their own strengths and traits that would render comparing one person to another unjust. And doesn’t that compel you to think, there must be a reason why we’re all so different? And just because maybe your peers and family and everyone else appreciated that one person who apparently, is successful, say got that coveted job, would you do the same? That by doing the same things as everyone else, aren’t we just messing up with the way the universe was designed (and if there’s such a thing?). My randomly racing train of thoughts comes to a halt as we reach level ‘-1’, and I realise I thought too much in the few seconds in the elevator. I think if that puts me in the category of ‘crazy’ – never-ending randomly-running thought trains triggered by a word I read somewhere. But isn’t that almost every introvert ever? I wonder, I wish. Isn’t it plain sad how it sometimes feels that humans by design are kind of biased towards extroverts? I learnt through multiple incidents spread across my childhood, and sometimes the hard way too, to eventually enjoy ‘stuff’ that extroverts are inherently good at – stuff like greeting people on the streets and going out with a lot of people and also enjoying it, to the point that most people would affirm I am far from their image of an introvert. I’ve learnt, however, that it’s only when you get there do you realise why it is important to constantly challenge yourself, for I am now someone who is wholeheartedly grateful to the close-knit set of people I can share my ideas with. There are some unusual enlightening perspectives that stem from the amalgamation of the abilities of introverts and extroverts; the advancements we could make by just communicating, by the exchange of knowledge, the sharing of ideas. One of these days my friend said he would do this particular amazing thing in life because, he said, ‘I have the ability so I’m going to do it’. Words that sound so simple, but are vital for every person to etch into their minds. So many of us stop ourselves from achieving greatness as we settle for what feels like the good bet. Each of us has the capability to do so much, to contribute in a unique manner, to fight for something that only we can achieve. Maybe some of us are good at generating the ideas, maybe some of us at putting them out to the world. Maybe all of us with our different unique ideas add up like a perfect game of Tetris. Lets not allow anyone else define what success ought to be, let us go out and collaborate and fearlessly share our ideas. It’s time we put in our best, doing the things that we want to do, following our passions, pushing our limits, fighting against what confines us. To break free from the shackles of what holds us back, be it lethargy or fear of judgement. Let us acknowledge the power of collaboration and bank on our idiosyncrasies to add value to people’s lives, because no one else has the ability to change the world in the way you can.&lt;/p&gt;
 </description>
-        <pubDate>2020-08-11</pubDate>
-        <link>https://samruddhidodal.github.io//articles/2019-02/fruhstuck</link>
-        <guid isPermaLink="true">https://samruddhidodal.github.io//articles/2019-02/fruhstuck</guid>
+        <pubDate>2020-09-23</pubDate>
+        <link>http://localhost:4000/articles/2019-02/fruhstuck</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2019-02/fruhstuck</guid>
         
         
         <category>musings</category>
@@ -243,9 +243,9 @@ This year, I met several people. People I built deep bonds with, people I respec
 &lt;p&gt;I met some of the most amazing people and built some beautiful relationships this year. Like God decided to handpick some of the best people and have them walk into my life randomly. People who don’t get much of your time but go out of their way to do things for you. People who cared a lot, and yes, people who messed up. It sometimes feels as if everything has started to make sense. As if the pieces fit. The dots now connect.
 The good experiences made me happy. The bad ones made me wiser. I’m grateful. It feels like all the pieces were coming together as I was busy seizing a day at a time. And that I now have a greater responsibility, given I’ve had my fair share of opportunities landing themselves my way. Now, I have to go seek those out. That with the battles now fought, it’s time to gather all that I’ve collected. That with the renewed strength, the optimism and sagacity, its time to make the world a better place. :’)&lt;/p&gt;
 </description>
-        <pubDate>2020-08-11</pubDate>
-        <link>https://samruddhidodal.github.io//articles/2018-12/year-end-v2</link>
-        <guid isPermaLink="true">https://samruddhidodal.github.io//articles/2018-12/year-end-v2</guid>
+        <pubDate>2020-09-23</pubDate>
+        <link>http://localhost:4000/articles/2018-12/year-end-v2</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2018-12/year-end-v2</guid>
         
         
         <category>musings</category>
@@ -259,9 +259,9 @@ The good experiences made me happy. The bad ones made me wiser. I’m grateful. 
 &lt;p&gt;It’s always such a trade off, you know? Whether you want to live that moment you’ve always waited for, or capture it so you can live it again. After having my fill of the snow getting into my hair and the moment where my hands and legs got cold and I saw that it was -4 degrees, I decided to take my phone out (while I could barely even hold it) and then went on to record a clip of myself, trying to cherish the moment, but all I could say was &lt;em&gt;I’m so happy omgodd I’m so happy I can’t even explain how happy I am right now and it’s cold here, will I die, but I always wanted to experience snowfall before I die so maybe it’s okay if I die now&lt;/em&gt;. I do not know what that feeling is called, I’ve never experienced it before, but in that moment, I felt like the luckiest and was definitely the happiest person on the planet. As a series of cable cars took me to the top, I met a lot of people, everyone in their skiing outfits. A guy from Germany who let me go first, and another who happily clicked a picture, and another 10 year old girl who curiously looked at me all the while, assuring me with her silent glances that I was going to be okay, and that it was okay to feel cold as even she was. She didn’t speak English, and I don’t know how she did it, but definitely brought peace to my partly scared mind. I asked her where she was from, but she didn’t speak English, so she nudged her mom, who told me they were from Germany. On the last cable car to the top of Salzburg, I met a lady from Vienna. She told me where I should go once we reached, and also asked me where I was from. And then with the most genuine smile ever, she said, ‘Is that why you’re so happy?’
 ‘Yes’, I replied, ‘&lt;b&gt;It’s my first snowfall’&lt;/b&gt;. :’)&lt;/p&gt;
 </description>
-        <pubDate>2020-08-11</pubDate>
-        <link>https://samruddhidodal.github.io//articles/2018-10/my-first-blog</link>
-        <guid isPermaLink="true">https://samruddhidodal.github.io//articles/2018-10/my-first-blog</guid>
+        <pubDate>2020-09-23</pubDate>
+        <link>http://localhost:4000/articles/2018-10/my-first-blog</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2018-10/my-first-blog</guid>
         
         
         <category>travel</category>
